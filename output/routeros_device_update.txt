@@ -1,0 +1,7 @@
+Mikrotik OS version info:
+  Hostname: chr-1
+  Installed-version: 6.43.14
+  Latest-version: 6.44.3
+  WARNING!!!: "This OS version is not from long-term branch, it is stable"
+
+
